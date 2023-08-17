@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Standoff 2 has captured the hearts of FPS enthusiasts around the world with its intense gameplay, tactical strategies, and thrilling gunfights","photo":"https://iili.io/HDDSANI.webp"},
+  {"title":"title2 ser","desc":"The release of version 0.23.0 brings a new wave of excitement as the game introduces an impressive mod that enhances the experience for players","photo":"https://iili.io/HDDST9p.webp"},
+  {"title":"title3 ser","desc":" offering innovative features that elevate the gameplay to new heights","photo":"https://iili.io/HDDSuAN.webp"},
+  {"title":"title4 ser","desc":"In this article, we delve into the standout features of the Standoff 2 v0.23.0 Mod and how it transforms the already popular game into an even more engaging and dynamic experience.","photo":"https://iili.io/HDDSzSR.webp"},
+  {"title":"title5 ser","desc":"The mod version 0.23.0 enriches the arsenal of weapons available to players, introducing a range of powerful firearms, custom skins","photo":"https://iili.io/HDDSRtt.webp"},
+  {"title":"title6 ser","desc":"and unique attachments that add a fresh layer of strategy to each match. Whether you prefer the precision of a sniper rifle, the versatility of an assault rifle","photo":"https://iili.io/HDDS7oX.webp"},
+  {"title":"title7 ser","desc":"or the close-quarters action of a shotgun, the mod's expanded weaponry options ensure there's a weapon that perfectly suits your playstyle","photo":"https://iili.io/HDDSaPs.webp"},
+  {"title":"title8 ser","desc":"Furthermore, the addition of customizable skins allows players to personalize their firearms, making their weapons truly their own on the battlefield.","photo":"https://iili.io/HDDSYVn.webp"}
    ]
  
 }
